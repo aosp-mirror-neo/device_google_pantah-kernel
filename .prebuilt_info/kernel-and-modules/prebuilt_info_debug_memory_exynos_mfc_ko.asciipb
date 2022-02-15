@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7987974"
+    build_id: "8175796"
     target: "cloudripper_debug_memory"
     source_file: "exynos_mfc.ko"
   }
   dest_file: "debug_memory/exynos_mfc.ko"
-  version: "Linux version 5.10.83-android13-0-00002-gf398bdcb077f-ab7987974 (build-user@build-host) (Android (7685531, based on r433403) clang version 13.0.2 (https://android.googlesource.com/toolchain/llvm-project d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c), LLD 13.0.2 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c)) #1 SMP PREEMPT Tue Dec 7 00:37:24 UTC 2021"
+  version: "Linux version 5.10.98-android13-0-00003-g6ea688a79989-ab8175796 (build-user@build-host) (Android (8075178, based on r437112b) clang version 14.0.1 (https://android.googlesource.com/toolchain/llvm-project 8671348b81b95fc603505dfc881b45103bee1731), LLD 14.0.1) #1 SMP PREEMPT Tue Feb 8 00:20:26 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/pantah-kernel"
 }
