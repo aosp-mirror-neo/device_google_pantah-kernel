@@ -66843,7 +66843,7 @@ ffffffc8123b4a20 D kallsyms_markers
 ffffffc8123b5298 D kallsyms_token_table
 ffffffc8123b5658 D kallsyms_token_index
 ffffffc8123bc77b d hci_reset_dev.hw_err
-ffffffc8123eca3d d max_tt_usecs
+ffffffc8123ec9f4 d max_tt_usecs
 ffffffc81240907d d ptychar
 ffffffc812414f1a d task_index_to_char.state_char
 ffffffc812414f1a d task_index_to_char.state_char

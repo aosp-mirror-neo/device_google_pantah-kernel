@@ -105690,7 +105690,7 @@ ffffffc01230baf8 D kallsyms_markers
 ffffffc01230c680 D kallsyms_token_table
 ffffffc01230ca38 D kallsyms_token_index
 ffffffc012314496 d hci_reset_dev.hw_err
-ffffffc012349649 d max_tt_usecs
+ffffffc012349600 d max_tt_usecs
 ffffffc0123687c5 d ptychar
 ffffffc012375eaa d task_index_to_char.state_char.10717
 ffffffc012384b7c d trunc_msg

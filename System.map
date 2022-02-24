@@ -94014,8 +94014,8 @@ ffffffc011c44490 d ROT8
 ffffffc011c444a8 D kernel_config_data
 ffffffc011c4e02c D kernel_config_data_end
 ffffffc011c4e034 D kernel_headers_data
+ffffffc011fba574 D kernel_headers_data_end
 ffffffc011fba578 D kallsyms_offsets
-ffffffc011fba578 D kernel_headers_data_end
 ffffffc012041b50 D kallsyms_relative_base
 ffffffc012041b58 D kallsyms_num_syms
 ffffffc012041b60 D kallsyms_names
@@ -94023,7 +94023,7 @@ ffffffc01222a810 D kallsyms_markers
 ffffffc01222b088 D kallsyms_token_table
 ffffffc01222b420 D kallsyms_token_index
 ffffffc0122323eb d hci_reset_dev.hw_err
-ffffffc0122629a6 d max_tt_usecs
+ffffffc01226295d d max_tt_usecs
 ffffffc01227f2ce d ptychar
 ffffffc01228b4cb d task_index_to_char.state_char.8769
 ffffffc0122989d8 d trunc_msg
