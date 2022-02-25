@@ -109,7 +109,6 @@ kernel/drivers/rtc/rtc-s2mpg12.ko
 kernel/drivers/i2c/busses/i2c-exynos5.ko
 kernel/drivers/i2c/busses/i2c-acpm.ko
 kernel/drivers/i2c/i2c-dev.ko
-kernel/drivers/media/common/videobuf2/videobuf2-dma-sg.ko
 kernel/drivers/media/platform/exynos/mfc/exynos_mfc.ko
 kernel/drivers/media/platform/exynos/smfc/smfc.ko
 kernel/drivers/power/reset/debug-reboot.ko
@@ -163,7 +162,6 @@ extra/net/mcps802154/mcps802154_region_nfcc_coex.ko
 extra/nitrous.ko
 extra/p9221.ko
 extra/panel/panel-boe-nt37290.ko
-extra/panel/panel-samsung-ana6707.ko
 extra/panel/panel-samsung-drv.ko
 extra/panel/panel-samsung-emul.ko
 extra/panel/panel-samsung-s6e3fc3-p10.ko
