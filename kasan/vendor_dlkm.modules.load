@@ -33,6 +33,7 @@ extra/lwis.ko
 extra/mali_kbase.ko
 extra/mali_pixel.ko
 extra/max77729_charger.ko
+extra/net/mcps802154/mcps802154_region_pctt.ko
 extra/overheat_mitigation.ko
 extra/sec_touch.ko
 extra/snd-soc-cs35l41-i2c.ko
