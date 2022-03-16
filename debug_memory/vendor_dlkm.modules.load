@@ -3,7 +3,10 @@ kernel/crypto/crct10dif_generic.ko
 kernel/lib/crc-t10dif.ko
 kernel/drivers/pinctrl/pinctrl-slg51000.ko
 kernel/drivers/pinctrl/pinctrl-slg51002.ko
+kernel/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 kernel/drivers/soc/google/bcm_dbg.ko
+kernel/drivers/soc/google/pixel_stat/pixel_stat_sysfs.ko
+kernel/drivers/soc/google/pixel_stat/mm/pixel_stat_mm.ko
 kernel/drivers/regulator/slg51000-regulator.ko
 kernel/drivers/regulator/slg51002-regulator.ko
 kernel/drivers/block/null_blk.ko
@@ -12,6 +15,7 @@ kernel/drivers/mfd/slg51000-core.ko
 kernel/drivers/mfd/slg51002-core.ko
 kernel/drivers/scsi/scsi_debug.ko
 kernel/drivers/usb/gadget/function/usb_f_etr_miu.ko
+kernel/drivers/usb/typec/tcpm/google/usbc_cooling_dev.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
 kernel/drivers/input/fingerprint/goodixfp.ko
 kernel/drivers/thermal/samsung/gpu_cooling.ko
@@ -31,6 +35,7 @@ extra/lwis.ko
 extra/mali_kbase.ko
 extra/mali_pixel.ko
 extra/max77729_charger.ko
+extra/net/mcps802154/mcps802154_region_pctt.ko
 extra/overheat_mitigation.ko
 extra/sec_touch.ko
 extra/snd-soc-cs35l41-i2c.ko
