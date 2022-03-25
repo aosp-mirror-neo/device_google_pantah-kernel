@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8340929"
+    build_id: "8350309"
     target: "cloudripper_debug_api"
     source_file: "trusty-ipc.ko"
   }
