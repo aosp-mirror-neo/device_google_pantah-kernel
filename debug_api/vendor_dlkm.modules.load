@@ -31,6 +31,7 @@ extra/bigocean.ko
 extra/cl_dsp.ko
 extra/drv2624.ko
 extra/focal_touch.ko
+extra/goog_touch_interface.ko
 extra/google_dock.ko
 extra/google_dual_batt_gauge.ko
 extra/gxp.ko
