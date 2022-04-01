@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8380134"
+    build_id: "8386623"
     target: "cloudripper_debug_memory"
     source_file: "tcpci_max77759.ko"
   }
