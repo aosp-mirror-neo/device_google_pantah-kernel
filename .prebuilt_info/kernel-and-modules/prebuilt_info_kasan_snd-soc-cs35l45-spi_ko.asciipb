@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8397092"
+    build_id: "8404648"
     target: "cloudripper_kasan"
     source_file: "snd-soc-cs35l45-spi.ko"
   }
