@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8423253"
+    build_id: "8433428"
     target: "cloudripper"
     source_file: "pmic_class.ko"
   }
