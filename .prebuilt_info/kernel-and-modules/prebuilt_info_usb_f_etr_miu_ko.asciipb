@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8459307"
+    build_id: "8470439"
     target: "cloudripper"
     source_file: "usb_f_etr_miu.ko"
   }
