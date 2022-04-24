@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8486605"
+    build_id: "8489794"
     target: "cloudripper"
     source_file: "google-charger.ko"
   }
