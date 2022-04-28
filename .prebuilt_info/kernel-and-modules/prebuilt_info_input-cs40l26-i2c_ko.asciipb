@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8500529"
+    build_id: "8503822"
     target: "cloudripper"
     source_file: "input-cs40l26-i2c.ko"
   }

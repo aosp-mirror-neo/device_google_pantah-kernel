@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8500529"
+    build_id: "8503822"
     target: "cloudripper"
     source_file: "debug-snapshot-debug-kinfo.ko"
   }
