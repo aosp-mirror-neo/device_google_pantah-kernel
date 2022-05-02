@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8518814"
+    build_id: "8522080"
     target: "cloudripper_debug_memory"
     source_file: "input-cs40l26-i2c.ko"
   }
