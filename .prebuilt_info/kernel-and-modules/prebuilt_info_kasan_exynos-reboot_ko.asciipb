@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8545517"
+    build_id: "8549040"
     target: "cloudripper_kasan"
     source_file: "exynos-reboot.ko"
   }
