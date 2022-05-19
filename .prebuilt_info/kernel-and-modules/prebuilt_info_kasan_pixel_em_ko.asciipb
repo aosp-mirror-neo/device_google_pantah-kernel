@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8604240"
+    build_id: "8606873"
     target: "cloudripper_kasan"
     source_file: "pixel_em.ko"
   }
