@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8663423"
+    build_id: "8672349"
     target: "cloudripper_debug_memory"
     source_file: "usb_f_rndis.ko"
   }
   dest_file: "debug_memory/usb_f_rndis.ko"
-  version: "Linux version 5.10.107-android13-4-687973-g0b4210aa7748-ab8663423 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Thu May 26 04:01:10 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-687985-gd56af73e68e6-ab8672349 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Wed Jun 1 08:04:05 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/pantah-kernel"
 }
