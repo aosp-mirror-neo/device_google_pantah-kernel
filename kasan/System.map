@@ -67745,7 +67745,7 @@ ffffffc8123dc8f7 d task_index_to_char.state_char
 ffffffc8123dc8f7 d task_index_to_char.state_char
 ffffffc8123dc8f7 d task_index_to_char.state_char
 ffffffc8123ea4d1 d trunc_msg
-ffffffc81240cac9 d f_midi_shortname
+ffffffc81240cad7 d f_midi_shortname
 ffffffc81244069c d f_midi_longname
 ffffffc812467c80 d slot_type_char
 ffffffc812467c84 d HIDPP_FF_CONDITION_CMDS
