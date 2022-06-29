@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8769162"
+    build_id: "8778813"
     target: "cloudripper_debug_locking"
     source_file: "panel-samsung-emul.ko"
   }
   dest_file: "debug_locking/panel-samsung-emul.ko"
-  version: "Linux version 5.10.107-android13-4-00017-gf8ca44396e51-ab8732768 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue Jun 14 17:14:09 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-00019-g81abaa85ac1d-ab8771756 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Jun 27 04:13:49 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/pantah-kernel"
 }
