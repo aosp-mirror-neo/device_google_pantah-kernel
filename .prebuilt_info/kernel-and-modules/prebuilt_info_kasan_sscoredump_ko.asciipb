@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9101292"
+    build_id: "9123632"
     target: "cloudripper_kasan"
     source_file: "sscoredump.ko"
   }
