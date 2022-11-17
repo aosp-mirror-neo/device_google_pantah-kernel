@@ -51,3 +51,4 @@ extra/snd-soc-cs35l41-i2c.ko
 extra/snd-soc-cs35l45-i2c.ko
 extra/snd-soc-cs40l26.ko
 extra/syna_touch.ko
+extra/wlan_ptracker.ko
