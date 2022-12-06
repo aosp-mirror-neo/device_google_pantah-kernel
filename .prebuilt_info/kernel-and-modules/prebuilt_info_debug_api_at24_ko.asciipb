@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9361631"
+    build_id: "9345686"
     target: "cloudripper_debug_api"
     source_file: "at24.ko"
   }
   dest_file: "debug_api/at24.ko"
-  version: "Linux version 5.10.107-android13-4-688344-ga33ccb04362f-ab9361631 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Thu Dec 1 03:25:02 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-688223-g6458706fbf0e-ab9345686 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Wed Nov 16 10:52:51 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/pantah-kernel"
 }
