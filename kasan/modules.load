@@ -15,7 +15,6 @@ kernel/drivers/soc/google/debug/debug-snapshot-debug-kinfo.ko
 kernel/drivers/soc/google/debug/ehld.ko
 kernel/drivers/soc/google/debug/exynos-debug-test.ko
 kernel/drivers/soc/google/debug/pixel-debug-test.ko
-kernel/drivers/soc/google/debug/pixel-suspend-diag.ko
 kernel/drivers/soc/google/debug/itmon.ko
 kernel/drivers/soc/google/debug/exynos-coresight.ko
 kernel/drivers/soc/google/debug/exynos-ecc-handler.ko
