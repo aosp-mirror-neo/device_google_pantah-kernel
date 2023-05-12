@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10061752"
+    build_id: "10092538"
     target: "cloudripper_debug_locking"
     source_file: "trusty-log.ko"
   }
