@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10061752"
+    build_id: "10092538"
     target: "cloudripper_kasan"
     source_file: "etm2dram.ko"
   }
