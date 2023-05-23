@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10157334"
+    build_id: "10189896"
     target: "cloudripper_kasan"
     source_file: "gs201-a0.dtb"
   }
