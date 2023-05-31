@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10171053"
+    build_id: "10218728"
     target: "cloudripper"
     source_file: "s2mpg1x-gpio-gs201.ko"
   }
