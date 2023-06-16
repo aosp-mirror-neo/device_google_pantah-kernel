@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10302501"
+    build_id: "10334383"
     target: "cloudripper"
     source_file: "s2mpg13-regulator.ko"
   }
