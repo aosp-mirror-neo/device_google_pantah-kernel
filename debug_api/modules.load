@@ -15,6 +15,7 @@ kernel/drivers/soc/google/debug/debug-snapshot-debug-kinfo.ko
 kernel/drivers/soc/google/debug/ehld.ko
 kernel/drivers/soc/google/debug/exynos-debug-test.ko
 kernel/drivers/soc/google/debug/pixel-debug-test.ko
+kernel/drivers/soc/google/debug/pixel-suspend-diag.ko
 kernel/drivers/soc/google/debug/itmon.ko
 kernel/drivers/soc/google/debug/exynos-coresight.ko
 kernel/drivers/soc/google/debug/exynos-ecc-handler.ko
@@ -23,6 +24,7 @@ kernel/drivers/soc/google/debug/exynos-adv-tracer.ko
 kernel/drivers/soc/google/debug/exynos-adv-tracer-s2d.ko
 kernel/drivers/soc/google/debug/pixel-boot-metrics.ko
 kernel/drivers/soc/google/debug/sjtag-driver.ko
+kernel/drivers/soc/google/debug/etm2dram.ko
 kernel/drivers/soc/google/vh/kernel/sched/vh_sched.ko
 kernel/drivers/soc/google/vh/kernel/sched/sched_tp.ko
 kernel/drivers/soc/google/vh/kernel/sched/vh_preemptirq_long.ko
@@ -31,6 +33,7 @@ kernel/drivers/soc/google/vh/kernel/thermal/vh_thermal.ko
 kernel/drivers/soc/google/vh/kernel/fs/vh_fs.ko
 kernel/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 kernel/drivers/soc/google/vh/kernel/i2c/vh_i2c.ko
+kernel/drivers/soc/google/vh/kernel/metrics/pixel_metrics.ko
 kernel/drivers/soc/google/gs-chipid.ko
 kernel/drivers/soc/google/cal-if/cmupmucal.ko
 kernel/drivers/soc/google/exynos-pmu-if.ko
@@ -66,6 +69,7 @@ kernel/drivers/soc/google/sysrq-hook.ko
 kernel/drivers/soc/google/dbgcore-dump.ko
 kernel/drivers/soc/google/exynos-seclog.ko
 kernel/drivers/soc/google/pkvm-s2mpu.ko
+kernel/drivers/soc/google/kernel-top.ko
 kernel/drivers/regulator/pmic_class.ko
 kernel/drivers/regulator/s2mpg12-regulator.ko
 kernel/drivers/regulator/s2mpg12-powermeter.ko
@@ -85,7 +89,7 @@ kernel/drivers/misc/logbuffer.ko
 kernel/drivers/misc/gvotable.ko
 kernel/drivers/misc/sscoredump/sscoredump.ko
 kernel/drivers/misc/bbdpl/bcm47765.ko
-kernel/drivers/mfd/s2mpg1x-gpio.ko
+kernel/drivers/mfd/s2mpg1x-gpio-gs201.ko
 kernel/drivers/mfd/s2mpg12-mfd.ko
 kernel/drivers/mfd/s2mpg13-mfd.ko
 kernel/drivers/dma-buf/heaps/samsung/samsung_dma_heap.ko
@@ -96,6 +100,7 @@ kernel/drivers/spi/spidev.ko
 kernel/drivers/spi/spi-s3c64xx.ko
 kernel/drivers/usb/dwc3/dwc3-exynos-usb.ko
 kernel/drivers/usb/host/xhci-exynos.ko
+kernel/drivers/usb/gadget/function/usb_f_rndis.ko
 kernel/drivers/usb/gadget/function/usb_f_dm.ko
 kernel/drivers/usb/gadget/function/usb_f_dm1.ko
 kernel/drivers/usb/typec/tcpm/google/usb_psy.ko
@@ -126,7 +131,6 @@ kernel/drivers/devfreq/google/governor_memlat.ko
 kernel/drivers/devfreq/google/memlat-devfreq.ko
 kernel/drivers/iio/power/odpm.ko
 kernel/drivers/trusty/trusty-core.ko
-kernel/drivers/trusty/trusty-irq.ko
 kernel/drivers/trusty/trusty-log.ko
 kernel/drivers/trusty/trusty-test.ko
 kernel/drivers/trusty/trusty-virtio.ko
