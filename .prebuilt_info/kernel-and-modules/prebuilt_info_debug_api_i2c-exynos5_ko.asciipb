@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8223982"
+    build_id: "10397538"
     target: "cloudripper_debug_api"
     source_file: "i2c-exynos5.ko"
   }
   dest_file: "debug_api/i2c-exynos5.ko"
-  version: "Linux version 5.10.101-android13-0-00406-g52b06a66387d-ab8223982 (build-user@build-host) (Android (8200618, based on r445002) clang version 14.0.2 (https://android.googlesource.com/toolchain/llvm-project ae8d7d1dee3175cbfe3887834135abee1dcfcb68), LLD 14.0.2) #1 SMP PREEMPT Tue Feb 22 13:57:38 UTC 2022"
+  version: "Linux version 5.10.157-android13-4-00005-g3f1b62f98dd7-ab10238696 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Thu Jun 1 08:09:04 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/pantah-kernel"
 }
